@@ -28,7 +28,7 @@ I just split the data into two parts, one part is train data, with 0.8 size of w
 
 By applying multinomailNB model, I just got the test accuracy to be 0.805. And the classification report is as follow:
 
-![MultinomailNB](/Users/hailongzeng/Desktop/Eluvio DS Challenge/MultinomailNB.png)
+![MultinomailNB](Eluvio DS Challenge/MultinomailNB.png)
 
 ## LogisticRegression
 
