@@ -28,23 +28,23 @@ I just split the data into two parts, one part is train data, with 0.8 size of w
 
 By applying multinomailNB model, I just got the test accuracy to be 0.805. And the classification report is as follow:
 
-![MultinomailNB](Eluvio DS Challenge/MultinomailNB.png)
+![MultinomailNB](./Eluvio DS Challenge/MultinomailNB.png)
 
 ## LogisticRegression
 
 By applying logisticRegression with penalty factor 1.0, the test accuracy is 0.806. And the classification report is as follow:
 
-![LR](Eluvio DS Challenge/LR.png)
+![LR](./Eluvio DS Challenge/LR.png)
 
 ## GBDT
 
-![GBDT](Eluvio DS Challenge/GBDT.png)
+![GBDT](./Eluvio DS Challenge/GBDT.png)
 
 ## Random Forest
 
 By setting the max_features = "sqrt" and n_estimators = 10, I just got the test accuracy is 0.793.
 
-![RF](Eluvio DS Challenge/RF.png)
+![RF](./Eluvio DS Challenge/RF.png)
 
 ## XGB
 
