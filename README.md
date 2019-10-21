@@ -4,7 +4,7 @@
 
 Through pandas to read the csv files, I just found the file contains 8 columns(509236*8): ["time_created"、"date_created"、"up_votes"、"down_votes"、"title"、"over_18"、"author" and "category"].
 
-![datasets](/Users/hailongzeng/Desktop/Eluvio DS Challenge/datasets.png)
+![datasets](datasets.png)
 
 After simple checking, the column called "down_votes" are found all "0" and the column named "category" are all shown as "worldnews", so those two features are useless, and just drop them. So there are 6 columns left.
 
